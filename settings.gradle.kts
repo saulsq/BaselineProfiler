@@ -12,7 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "AndroidTemplate"
+rootProject.name = "BaselineProfiler"
 include(":app")
 includeBuild("./plugin")
 

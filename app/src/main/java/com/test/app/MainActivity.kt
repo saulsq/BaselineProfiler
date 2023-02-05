@@ -2,7 +2,7 @@ package com.test.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.test.template.R
+import com.test.app.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
