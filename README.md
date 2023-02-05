@@ -1,2 +1,1 @@
-# AndroidTemplate
-Android APP Project Template
+# BaselineProfiler Demo
